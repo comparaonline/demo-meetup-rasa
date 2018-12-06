@@ -1,0 +1,29 @@
+slots:
+  coin:
+    type: list
+
+intents:
+ - greet
+ - thankyou
+ - goodbye
+ - coin_value_search
+
+entities:
+ - coin
+
+templates:
+  utter_greet:
+    - "Bienvenido, te gustaría conocer el precio de alguna criptomoneda por ahoro puedo indicarte el valor de bitcoin o ether"
+  utter_goodbye:
+    - "Adios!"
+  utter_default:
+    - "No te entendí"
+  utter_youarewelcome:
+    - "Gracias a ti"
+
+actions:
+  - utter_default
+  - utter_greet
+  - utter_goodbye
+  - utter_youarewelcome
+  - action_coin_value_search
