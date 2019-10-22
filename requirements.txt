@@ -172,7 +172,7 @@ pbr==4.0.4
 pexpect==4.6.0
 pickleshare==0.7.4
 pika==0.11.2
-Pillow==5.1.0
+Pillow==6.2.0
 pipenv==2018.6.25
 plac==0.9.6
 plotly==3.1.0
