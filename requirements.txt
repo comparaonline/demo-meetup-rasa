@@ -38,7 +38,7 @@ ConfigArgParse==0.13.0
 constantly==15.1.0
 contextlib2==0.5.5
 crcmod==1.7
-cryptography==2.4.1
+cryptography==3.2
 curlify==2.1.0
 curtsies==0.3.0
 cycler==0.10.0
