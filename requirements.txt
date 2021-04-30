@@ -237,7 +237,7 @@ requests==2.20.0
 requests-toolbelt==0.8.0
 retrying==1.3.3
 rocketchat-API==0.6.22
-rsa==3.4.2
+rsa==4.7
 ruamel-yaml==0.15.37
 ruamel.yaml==0.15.37
 s3transfer==0.1.13
