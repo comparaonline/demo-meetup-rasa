@@ -65,7 +65,7 @@ es-core-news-md==2.0.0
 es-core-news-sm==2.0.0
 esptool==2.5.0
 et-xmlfile==1.0.1
-eventlet==0.24.1
+eventlet==0.31.0
 fakeredis==0.10.3
 fbmessenger==5.3.0
 Flask==1.0.2
