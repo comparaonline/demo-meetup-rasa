@@ -264,7 +264,7 @@ SubDownloader==2.1.0rc4
 subliminal==2.0.5
 tabulate==0.8.2
 tensorboard==1.12.0
-tensorflow==1.12.0
+tensorflow==2.5.1
 termcolor==1.1.0
 terminado==0.8.1
 terminaltables==3.1.0
