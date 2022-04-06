@@ -278,7 +278,7 @@ tornado==5.0.2
 tqdm==4.23.3
 traitlets==4.3.2
 twilio==6.16.1
-Twisted==18.7.0
+Twisted==22.2.0
 typed-ast==1.1.0
 typing==3.6.4
 tzlocal==1.5.1
